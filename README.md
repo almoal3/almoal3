@@ -20,7 +20,7 @@ Computer Engineering graduate from Valencia, Spain, looking for my first role as
 
 **B.Sc. in Computer Engineering** · Universitat de València · 2022–2026
 - Information Security: 9/10 · Advanced Networks I: 9.5/10
-- Final degree project (9/10): *Dynamic security testing of a deliberately vulnerable web application.* Built a vulnerable Flask/SQLite app and assessed it with OWASP ZAP 2.16.1, then validated the results manually. ZAP detected the SQL injection and the missing security headers. The reflected XSS and the broken access control were only confirmed through manual testing. Findings mapped to OWASP Top 10 and ASVS, with a secure development methodology based on NIST SSDF, OWASP and the Spanish ENS. *Repository in preparation.*
+- Final degree project (9/10): *Dynamic security testing of a deliberately vulnerable web application.* Built a vulnerable Flask/SQLite app and assessed it with OWASP ZAP 2.16.1, then validated the results manually. ZAP detected the SQL injection and the missing security headers. The reflected XSS and the broken access control were only confirmed through manual testing. Findings mapped to OWASP Top 10 and ASVS, with a secure development methodology based on NIST SSDF, OWASP and the Spanish ENS. [View repository](https://github.com/almoal3/tfg-dast-owasp-zap)
 
 **Cisco Networking Academy** · CCNA: Switching, Routing and Wireless Essentials and CCNA: Enterprise Networking, Security and Automation (course certificates, Jan 2026)
 
